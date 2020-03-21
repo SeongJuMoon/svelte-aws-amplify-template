@@ -1,5 +1,5 @@
 import App from './App.svelte';
-import Amplify, {Auth} from 'aws-amplify';
+import Amplify from 'aws-amplify';
 import awsmobile from './aws-exports';
 
 const app = new App(
