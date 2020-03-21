@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "lib": ["es2020"],
+      "module": "es6",
+      "noImplicitReturns": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "removeComments": true,
+      "strict": true,
+      "target": "es6",
+      "sourceMap": true,
+      "moduleResolution": "node",
+    }
+  }
