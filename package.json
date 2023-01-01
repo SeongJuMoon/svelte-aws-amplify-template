@@ -19,11 +19,11 @@
   "devDependencies": {
     "cross-env": "^7.0.2",
     "svelte": "^3.20.1",
-    "svelte-loader": "^2.13.6",
+    "svelte-loader": "^3.1.4",
     "svelte-preprocess": "^3.5.0",
     "typescript": "^3.8.3",
-    "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.11",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
